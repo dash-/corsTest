@@ -1,0 +1,25 @@
+{
+  "name": "corsTest",
+  "version": "0.0.1",
+  "authors": [
+    "Basic <basic@localhost>"
+  ],
+  "description": "corsTest",
+  "main": "",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.1"
+  }
+}
